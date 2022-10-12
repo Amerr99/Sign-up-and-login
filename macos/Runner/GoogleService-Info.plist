@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>72297304370-iill679of1cme02oev7r5mu1s09fdith.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.72297304370-iill679of1cme02oev7r5mu1s09fdith</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfR4i951ZnDoSrS4KbTcG5iuN2ZeJKl4g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>72297304370</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.boomBoom</string>
+	<key>PROJECT_ID</key>
+	<string>boom-boom-b73b2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boom-boom-b73b2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:72297304370:ios:dd4e622fd54d60e376872b</string>
+</dict>
+</plist>

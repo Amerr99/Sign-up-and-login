@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72297304370",
+    "project_id": "boom-boom-b73b2",
+    "storage_bucket": "boom-boom-b73b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72297304370:android:e201f2af84b84b8e76872b",
+        "android_client_info": {
+          "package_name": "com.example.boom_boom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72297304370-htg0qgv019g4soqiqpauutbb5tsp4jqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7w0d_J9MpbmC5GnxVsCyLHKfUKSLXuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72297304370-htg0qgv019g4soqiqpauutbb5tsp4jqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
